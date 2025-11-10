@@ -1,16 +1,33 @@
-## Hi there 👋
+# Привет! 👋 Я Джамбулат
 
-<!--
-**Myagchiev/Myagchiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend / Backend Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥️ Frontend
+
+**Основной стек:**
+
+- ⚛️ React, Redux Toolkit, MobX
+- 🟦 TypeScript, JavaScript (ES6+)
+- 🎨 Tailwind CSS, SCSS
+- ⚙️ Vite, Webpack
+- 📄 HTML5, семантика, адаптив
+
+---
+
+## 🔧 Backend
+
+**Основной стек:**
+
+- ☕ Go (REST API)
+- 🛠 Docker, CI/CD (GitHub Actions)
+- 🔌 gRPC, Kafka, Prometheus
+
+---
+
+## 📫 Контакты
+
+- Email: **myagchiev_aferist@mail.ru**
+- Telegram: **@ttsundeere**
+
