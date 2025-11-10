@@ -20,7 +20,7 @@
 
 **Основной стек:**
 
-- ☕ Go (REST API)
+- ☕ Go (REST API), SQL
 - 🛠 Docker, CI/CD (GitHub Actions)
 - 🔌 gRPC, Kafka, Prometheus
 
