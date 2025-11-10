@@ -28,5 +28,4 @@
 
 ## 📫 Контакты
 
-- Email: **myagchiev_aferist@mail.ru**
 - Telegram: **@ttsundeere**
