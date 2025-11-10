@@ -31,3 +31,7 @@
 - Email: **myagchiev_aferist@mail.ru**
 - Telegram: **@ttsundeere**
 
+### 📂 Проекты
+
+- 🔹 [todo-api](https://github.com/Myagchiev/TODO-API.git)
+- 🔹 [online-shop](https://github.com/Myagchiev/redux-project.git)
